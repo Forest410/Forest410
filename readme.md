@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forest410&label=Profile%20views&color=0e75b6&style=flat" alt="forest410" /> </p>
 
-- 🔭 I’m currently working on [Online Dresses shopping website](N/A)
+- 🔭 I’m currently working on [Online Dresses store website](N/A)
 
 - 🌱 I’m currently learning **Gaming Engines like UE, Godot, Gdevelop**
 
